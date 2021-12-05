@@ -1,5 +1,6 @@
 # Shoe-Price-Prediction
 ![png](1.png)
+![png](2.png)
 
 
 ## Objective:
