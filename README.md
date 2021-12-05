@@ -1,5 +1,6 @@
 # Shoe-Price-Prediction
 ![png](1.png)
+![png](2.png)
 
 ## Objective:
 * Predicting shoes price for the customers of Zshoes and deploy with the help of flask.
