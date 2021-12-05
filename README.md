@@ -1,4 +1,5 @@
 # Shoe-Price-Prediction
+![png](1.png)
 
 ## Objective:
 * Predicting shoes price for the customers of Zshoes and deploy with the help of flask.
@@ -36,4 +37,3 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 * Cross validation models
 * Hyperparameter tuning
 
-![Screenshot](1.png)
