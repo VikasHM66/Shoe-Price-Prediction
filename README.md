@@ -15,7 +15,7 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 * freight_value: freight_value of the shoe
 * payment_sequential: Sequence of payment
 * payment_type:types of payment
-* payment_installments: Installments of payments
+* payment_installments: Installments of payment
 * payment_value:Value of payment
 
 ## Built with 🛠️
