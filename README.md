@@ -15,7 +15,7 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 * payment_installments: Installments of payments
 * payment_value:Value of payment
 
-# Built with 🛠️
+## Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -26,7 +26,7 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
-## Tools and Techniques:
+## Techniques:
 * python jupyter notebook
 * Exploratory Data Analysis
 * Statistical Analysis and Statistical testing
