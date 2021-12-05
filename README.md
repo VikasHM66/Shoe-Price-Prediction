@@ -21,15 +21,15 @@ payment_value:Value of payment
 * Statistical Analysis and Statistical testing
 * Bivariate and Mutltivariate Analysis
 * Splitting and Scaling the dataset
-* linear and non-linear models
-* cross validation models
-* hyperparameter tuning
+* Linear and non-linear regression models
+* Cross validation models
+* Hyperparameter tuning
 
 ## Libraries used:
-* scikit learn
-* flask
-* pickle
-* numpy 
-* pandas
-* seaborn
-* matplotlib
+* Scikit learn
+* Flask
+* Pickle
+* Numpy 
+* Pandas
+* Seaborn
+* Matplotlib
