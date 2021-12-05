@@ -37,4 +37,4 @@ Zshoes.com is one of the famous shoe manufacturers of India and has business in 
 * Linear and non-linear regression models
 * Cross validation models
 * Hyperparameter tuning
-
+![Screenshot](3.png)
